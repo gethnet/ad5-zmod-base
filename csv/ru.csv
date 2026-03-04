@@ -440,6 +440,7 @@ unknown value:;неизвестное значение:
 Unrecognized value for setting:;Нераспознанное значение для настройки:
 custom value:;пользовательское значение:
 Parameters used during printing;Параметры, используемые во время печати
+Slicer-controlled pooping;Сброс пластика, управляемый слайсером
 Go to rear edge via edges;Перейти к заднему краю через края
 Restart Alter Screen;Перезапустить альтернативный экран
 Alter Screen is not used;Альтернативный экран не используется
